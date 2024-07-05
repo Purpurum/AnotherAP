@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/WkC57df/ch-ban.png" alt="banner2" border="0" /></a>
+  <img src="https://i.ibb.co/hy55hb2/ch-ban.png" alt="banner2" border="0" /></a>
 </div>
 
 ## <div align="center">Стэк технологий📑</div>
