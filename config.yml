@@ -1,0 +1,28 @@
+src_dir: "traps"
+mapping: "class_labels.txt"
+device: cuda
+dst_save_table: "data/table.csv"
+
+detector:
+  weights: "models/yolov8n.pt"
+  batch_size: 1
+  iou: 0.45
+  conf: 0.4
+  imgsz:
+    - 640
+    - 640
+
+#classificator:
+#  weights: "weights/classification/efficientnetb4.pth"
+#  batch_size: 32
+#  imgsz:
+#    - 224
+#    - 224
+
+
+classificator:
+  weights: "models/best_best_resnet101.pt"
+  batch_size: 8
+  imgsz:
+    - 288
+    - 288
