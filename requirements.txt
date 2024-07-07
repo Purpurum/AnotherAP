@@ -1,0 +1,15 @@
+ultralytics
+opencv-python
+Pillow
+csv
+shutil
+tempfile
+matplotlib
+seaborn
+pandas
+torch
+torchvision
+PyQt6
+cv2
+confz
+tqdm
