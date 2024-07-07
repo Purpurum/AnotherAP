@@ -24,9 +24,9 @@
 <p>
   Вам необходимо:<br>
   &ensp; 1. Установить Python версии не меньше 3.9<br>
-  &ensp; 2. В папку по пути modules/models скачать и поллжить веса с ссылки https://drive.google.com/drive/u/1/folders/1EvYpENmxXWTXIo0z2yulSk0G8F92pU2G<br>
+  &ensp; 2. В папку по пути models скачать и поллжить веса с ссылки https://disk.yandex.ru/client/disk/Хакатон%20Грозный<br>
   &ensp; 3. В cmd "pip install -r requirements.txt"<br>
-  &ensp; 4. Запустить PingApp.py<br>
+  &ensp; 4. Запустить MainUI.py(в cmd python mainUI.py)<br>
 </p>
 
 #### Как это работает?
@@ -44,7 +44,7 @@
 <p>
   Данное решение содержит несколько модулей: детектор и классификатор и определитель времени.
   В качестве детектора ипользуется бесклассовая модель Yolov8n.
-  В качестве классификаторов используется ансамбль ResNet50xt.
+  В качестве классификаторов используется ResNet101.
 </p>
 <div align="center">
 
