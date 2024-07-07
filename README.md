@@ -24,7 +24,7 @@
 <p>
   Вам необходимо:<br>
   &ensp; 1. Установить Python версии не меньше 3.9<br>
-  &ensp; 2. В папку по пути models скачать и поллжить веса с ссылки https://disk.yandex.ru/client/disk/Хакатон%20Грозный<br>
+  &ensp; 2. В папку по пути models скачать и поллжить веса с ссылки https://disk.yandex.ru/d/1UPerq9luRkfCg<br>
   &ensp; 3. В cmd "pip install -r requirements.txt"<br>
   &ensp; 4. Запустить MainUI.py(в cmd python mainUI.py)<br>
 </p>
