@@ -70,10 +70,6 @@
 </div>
 
 ## <div align="center">Демонстрация работы🎞</div>
-<p>
-  ГИФКА
-</p>
-
 <div align="center">
-  <img src="rme_res/demoApp.gif" border="0" /></a>
+  <img src="res/expl.gif" border="0" /></a>
 </div>
